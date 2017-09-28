@@ -1,4 +1,4 @@
 # phpstorm-meta-joomla
-Put this file in the root for your Joomla library to enable auto-complete for Joomla in PhpStorm. This feature was broken in version 3.8 of Joomla as it follows the PSR-4 standard.
+Put thi file '.phpstorm-meta-joomla.php' in the root for your Joomla library to enable auto-complete for Joomla in PhpStorm. This feature was broken in version 3.8 of Joomla as it follows the PSR-4 standard.
 
 It is recommended to ignore this file in your git repository.
